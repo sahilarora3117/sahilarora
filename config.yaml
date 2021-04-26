@@ -5,7 +5,7 @@ params:
   palette: blue
   header:
     title: Sahil Arora
-    tagline: Header Tagline
+    tagline: Student
     profile_img: >-
       https://res.cloudinary.com/practicaldev/image/fetch/s--Kfqqn1Ub--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/360673/43c17893-f0d8-4984-9467-19581c1e0b44.png
     profile_img_alt: Author avatar
