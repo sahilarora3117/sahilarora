@@ -36,7 +36,7 @@ params:
   footer:
     content: >-
     links:
-      - label: Generated from DEV
+      - label: Github
         url: 'https://dev.to/'
         new_window: true
         style: link
