@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: >-
-      I love open source 
+      I love all Open Source. Contact me if you have any questions.
     actions:
       - label: Contact Me
         url: /contact
