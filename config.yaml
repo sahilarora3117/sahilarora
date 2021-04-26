@@ -37,7 +37,7 @@ params:
     content: >-
     links:
       - label: Github
-        url: 'https://dev.to/'
+        url: 'https://github.com/sahilarora3117'
         new_window: true
         style: link
 taxonomies:
