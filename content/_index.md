@@ -26,7 +26,7 @@ sections:
         style: button
 seo:
   title: Sahil Arora
-  description: The preview of the Fresh theme
+  description: 
   extra:
     - name: 'og:type'
       value: website
