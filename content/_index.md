@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Sahil Arora.'
     content: >-
-      I am a student currently studying Computer Science in Vellore Institute of Technology Chennai.
+      I am a student currently studying Computer Science in Vellore Institute of Technology, Chennai.
   - section_id: about
     type: section_content
     title: About
