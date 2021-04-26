@@ -26,7 +26,7 @@ sections:
         style: button
 seo:
   title: Sahil Arora
-  description: 
+  description: Portfolio Website
   extra:
     - name: 'og:type'
       value: website
