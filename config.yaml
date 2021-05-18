@@ -37,7 +37,7 @@ params:
         url: 'https://twitter.com/sahilarora3117'
         style: icon
         icon_class: twitter
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
   footer:
