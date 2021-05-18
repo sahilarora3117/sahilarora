@@ -35,7 +35,7 @@ params:
         new_window: true
       - label: Twitter
         url: 'https://twitter.com/sahilarora3117'
-        style: link
+        style: icon
         icon_class: dev
         new_window: false
         no_follow: false
