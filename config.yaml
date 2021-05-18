@@ -33,7 +33,7 @@ params:
         style: icon
         icon_class: dev
         new_window: true
-      - label: lorem-ipsum
+      - label: Twitter
         url: '#'
         style: link
         icon_class: dev
