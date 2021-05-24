@@ -22,7 +22,7 @@ params:
         url: /contact/
         style: link
       - label: Projects
-        url: '#'
+        url: /projects/
         style: link
         icon_class: dev
         new_window: false
