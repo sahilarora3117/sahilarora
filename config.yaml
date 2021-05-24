@@ -8,13 +8,20 @@ params:
     tagline: Student
     profile_img: >-
       https://res.cloudinary.com/practicaldev/image/fetch/s--Kfqqn1Ub--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/360673/43c17893-f0d8-4984-9467-19581c1e0b44.png
-    profile_img_alt: Author avatar
+    profile_img_alt: Sahil Arora
     background: dark
     has_nav: true
     nav_links:
       - label: Home
         url: /
         style: link
+      - label: Projects
+        url: /projects/
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
       - label: Blog
         url: /blog/
         style: link
