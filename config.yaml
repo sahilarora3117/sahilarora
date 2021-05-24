@@ -2,7 +2,7 @@ title: Sahil Arora
 baseURL: /
 params:
   layout_style: overflow
-  palette: orange
+  palette: blue
   header:
     title: Sahil Arora
     tagline: Student
