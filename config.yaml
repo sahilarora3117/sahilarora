@@ -40,7 +40,7 @@ params:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: LinkedIn
         url: '#'
         style: link
         icon_class: dev
