@@ -15,13 +15,6 @@ params:
       - label: Home
         url: /
         style: link
-      - label: Projects
-        url: /projects/
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
       - label: Blog
         url: /blog/
         style: link
