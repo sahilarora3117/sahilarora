@@ -6,7 +6,6 @@ params:
   header:
     title: Sahil Arora
     tagline: Student
-    profile_img: images/APR_7464 copy.jpg
     profile_img_alt: Sahil Arora
     background: dark
     has_nav: true
@@ -46,6 +45,7 @@ params:
         new_window: true
         no_follow: false
         type: action
+    profile_img: images/APR_7464 copy(1).jpg
   footer:
     content: ''
     links:
