@@ -42,7 +42,7 @@ params:
         type: action
       - label: LinkedIn
         url: 'https://linkedin.com/sahilarora3117'
-        style: button
+        style: link
         icon_class: dev
         new_window: false
         no_follow: false
