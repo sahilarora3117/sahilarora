@@ -16,9 +16,6 @@ params:
       - label: Blog
         url: /blog/
         style: link
-      - label: Contact
-        url: /contact/
-        style: link
       - label: Projects
         url: '#'
         style: link
@@ -26,6 +23,9 @@ params:
         new_window: false
         no_follow: false
         type: action
+      - label: Contact
+        url: /contact/
+        style: link
     has_social: true
     social_links:
       - label: GitHub
