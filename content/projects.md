@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: The projects I have Worked on
+subtitle: The projects I have worked on
 img_alt: lorem-ipsum
 seo:
   title: ''
