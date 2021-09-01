@@ -19,7 +19,7 @@ params:
       - label: Contact
         url: /contact/
         style: link
-      - label: lorem-ipsum
+      - label: Projects
         url: '#'
         style: link
         icon_class: dev
